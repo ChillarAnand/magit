@@ -81,6 +81,7 @@
       ("f" "Fetching"        magit-key-mode-popup-fetching)
       ("F" "Pulling"         magit-key-mode-popup-pulling)
       ("g" "Refresh Buffers" magit-refresh-all)
+      ("k" "Discard"         magit-discard-item)
       ("l" "Logging"         magit-key-mode-popup-logging)
       ("m" "Merging"         magit-key-mode-popup-merging)
       ("M" "Remoting"        magit-key-mode-popup-remoting)
